@@ -16,7 +16,7 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 12, "https://dmanager.tarasovlabs.com"
 
 21, "UI effects"
-22, "Listbox smooth scrolling"
+22, "Ομαλή κύλιση πλαισίου λίστας"
 
 40, "https://dmanager.tarasovlabs.com/update.uurl"
 41, "Αυτόματες &ενημερώσεις"
@@ -35,7 +35,7 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 
 91, "Disabled"
 
-130, "Disable popup window's bo&rder"
+130, "Απενεργοποίηση &περιγράμματος αναδυόμενου παραθύρου"
 
 150, "&Γλώσσα"
 151, "&Προεπιλεγμένη"
