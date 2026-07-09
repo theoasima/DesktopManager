@@ -11,7 +11,7 @@
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"; LicenseFile: "..\LICENSE.txt"
-Name: "greek"; MessagesFile: "compiler:Languages\Greek.isl"; LicenseFile: "..\Localization\Greek\License.txt"
+Name: "greek"; MessagesFile: "compiler:Languages\Greek.isl"; LicenseFile: "..\LICENSE.txt"
 Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"; LicenseFile: "..\Localization\Russian\License.txt"
 
 #endif
