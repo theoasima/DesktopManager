@@ -2,7 +2,7 @@
 ; InstallType
 greek.InstallType=Επιλογή τύπου εγκατάστασης
 ; InstallTypeDescription
-greek.InstallTypeDescription=You can install standard or portable version of {#AppName}
+greek.InstallTypeDescription=Μπορείτε να εγκαταστήσετε την τυπική ή τη φορητή έκδοση του {#AppName}
 
 ; AllUserRadioButton
 greek.AllUserRadioButton=Εγκατάσταση στο Program Files
