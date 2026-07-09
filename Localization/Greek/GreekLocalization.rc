@@ -4,7 +4,7 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 0, "Greek"
 1, "Desktop Manager"
 2, "Ρυθμίσεις:"
-3, "&Show wallpaper"
+3, "&Εμφάνιση ταπετσαρίας"
 4, "Wallpaper enabled"
 5, "Wallpaper disabled"
 6, "&Αυτόματη έναρξη με τα Windows"
